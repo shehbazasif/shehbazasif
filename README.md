@@ -5,6 +5,7 @@ I am Shehbaz Asif
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on LMS In Next-Js and Tailwind Css
 - 🌱 I’m currently learning Next-Js And Python
 - 👯 I’m looking to collaborate on LMS System
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: m.shahbazasif512@gmail.com | 03105865566
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am An Artist 
--->
 
 
 ## 🌐 Socials:
